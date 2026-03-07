@@ -29,8 +29,8 @@ const REASONS = [
         accent: "blue",
     },
     {
-        title: "Círculo Austral — unirse al think tank",
-        desc: "Participación en sesiones quincenales de pensamiento estratégico en la UAI.",
+        title: "Círculo Austral — unirse al círculo",
+        desc: "Participación en sesiones mensuales de pensamiento estratégico en Viña del Mar.",
         accent: "gold",
     },
     {

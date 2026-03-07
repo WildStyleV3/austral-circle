@@ -5,10 +5,10 @@ import RevealObserver from "@/components/RevealObserver";
 export const metadata: Metadata = {
     title: "Círculo Austral — Pensamiento Estratégico para Chile",
     description:
-        "Think tank de pensamiento estratégico interdisciplinario. Soberanía territorial, frontera tecnológica y tecnopolítica. Universidad Adolfo Ibáñez, Santiago.",
+        "Espacio de pensamiento estratégico interdisciplinario. Soberanía territorial, frontera tecnológica y tecnopolítica. Viña del Mar, Chile.",
     openGraph: {
         title: "Círculo Austral — Pensamiento Estratégico para Chile",
-        description: "Think tank de pensamiento estratégico interdisciplinario. Soberanía territorial, frontera tecnológica y tecnopolítica.",
+        description: "Espacio de pensamiento estratégico interdisciplinario. Soberanía territorial, frontera tecnológica y tecnopolítica.",
         type: "website",
     },
 };
@@ -25,12 +25,8 @@ export default function CirculoAustralPage() {
                 <div className="hero-bg-text">AUSTRAL</div>
 
                 <div className="hero-top-bar">
-                    <span className="hero-top-tag tag-gold">
-                        Think Tank · Pensamiento Estratégico
-                    </span>
-                    <span className="tag-sep" />
                     <span className="hero-top-tag tag-blue">
-                        Universidad Adolfo Ibáñez · Santiago
+                        Viña del Mar, Chile
                     </span>
                 </div>
 
@@ -47,7 +43,7 @@ export default function CirculoAustralPage() {
 
                     <div className="hero-metrics">
                         <div className="metric">
-                            <span className="metric-val">Quincenal</span>
+                            <span className="metric-val">Mensual</span>
                             <span className="metric-label">Frecuencia de sesiones</span>
                         </div>
                         <div className="metric">
@@ -55,11 +51,11 @@ export default function CirculoAustralPage() {
                             <span className="metric-label">Duración por sesión</span>
                         </div>
                         <div className="metric">
-                            <span className="metric-val blue">UAI</span>
+                            <span className="metric-val blue">Viña del Mar</span>
                             <span className="metric-label">Sede</span>
                         </div>
                         <div className="metric">
-                            <span className="metric-val blue">2026</span>
+                            <span className="metric-val blue">2025</span>
                             <span className="metric-label">Fundado</span>
                         </div>
                     </div>
@@ -186,7 +182,7 @@ export default function CirculoAustralPage() {
                         <tbody>
                             <tr>
                                 <td className="tg">Frecuencia</td>
-                                <td>Sesiones quincenales de 90 minutos</td>
+                                <td>Sesiones mensuales de 90 minutos</td>
                             </tr>
                             <tr>
                                 <td className="tg">Estructura</td>
@@ -209,7 +205,7 @@ export default function CirculoAustralPage() {
                             </tr>
                             <tr>
                                 <td className="tb">Sede</td>
-                                <td>Universidad Adolfo Ibáñez, Santiago</td>
+                                <td>Viña del Mar, Chile</td>
                             </tr>
                             <tr>
                                 <td className="tb">Difusión</td>
@@ -466,7 +462,7 @@ export default function CirculoAustralPage() {
                     <div className="cta-col">
                         <div className="cta-label">Proyecto hermano</div>
                         <p>
-                            Círculo Austral es el think tank hermano de{" "}
+                            Círculo Austral es el espacio de pensamiento hermano de{" "}
                             <strong>AETERNA</strong>, la plataforma de longevidad y biología
                             espacial.
                         </p>
